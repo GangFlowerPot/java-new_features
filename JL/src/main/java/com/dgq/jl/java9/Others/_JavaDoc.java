@@ -1,4 +1,4 @@
-package com.dgq.jl.java9.Other;
+package com.dgq.jl.java9.Others;
 
 /**
  * javadoc 的html5支持（添加搜索框）

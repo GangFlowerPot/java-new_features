@@ -1,4 +1,4 @@
-package com.dgq.jl.java9.Other;
+package com.dgq.jl.java9.Others;
 
 /**
  * 智能Java编译工具(sjavac)

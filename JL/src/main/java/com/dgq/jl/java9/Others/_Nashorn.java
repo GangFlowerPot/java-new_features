@@ -1,4 +1,4 @@
-package com.dgq.jl.java9.Other;
+package com.dgq.jl.java9.Others;
 
 /**
  * JavaScript引擎Nashorn升级
